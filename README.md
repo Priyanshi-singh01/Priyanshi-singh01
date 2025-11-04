@@ -18,4 +18,4 @@ Hi, I'm Priyanshi Singh
               [LinkedIn] (https://www.linkedin.com/in/priyanshi-singh-8941b0389/)  
                
                  
-                                                           "Exploring data today to empower decisions tomorrow."
+ "Exploring data today to empower decisions tomorrow."
