@@ -1,21 +1,28 @@
-Hi, I'm Priyanshi Singh  
-              BCA Student at Rakshpal Bahadur Management Institute  
-              Aspiring Data Analyst | Passionate about turning data into insights  
+# Hi, I'm Priyanshi Singh 👋
 
-•	About Me  
-              Currently learning Excel, SQL, Python, and Power BI
-              Love analyzing data and discovering trends  
-              Goal: To become a skilled Data Analyst and contribute to impactful projects  
+BCA Student at Rakshpal Bahadur Management Institute  
+Aspiring Data Analyst | Passionate about turning data into insights
 
-•	Tools & Technologies  
+---
 
-               |   Category	   |                  Tools                         |
-               |Data Analysis	 | Excel, SQL, Power BI, Python (Pandas, NumPy)   |
-               |Visualization  |	Power BI, Matplotlib                          |
-               |Other Skills	 | Data Cleaning, Data Reporting, Problem Solving |
+## About Me
+I am currently learning **Excel, SQL, Python, and Power BI**.  
+I love analyzing data and discovering trends that can drive meaningful decisions.  
+**Goal:** To become a skilled Data Analyst and contribute to impactful projects.
 
-•	Connect With Me  
-              [LinkedIn] (https://www.linkedin.com/in/priyanshi-singh-8941b0389/)  
-               
-                 
- "Exploring data today to empower decisions tomorrow."
+---
+
+## Tools & Technologies
+
+| Category        | Tools                                    |
+|-----------------|-----------------------------------------|
+| Data Analysis   | Excel, SQL, Power BI, Python (Pandas, NumPy) |
+| Visualization   | Power BI, Matplotlib                     |
+| Other Skills    | Data Cleaning, Data Reporting, Problem Solving |
+
+---
+
+## Connect With Me
+[LinkedIn](https://www.linkedin.com/in/priyanshi-singh-8941b0389/)
+
+> *"Exploring data today to empower decisions tomorrow."*
